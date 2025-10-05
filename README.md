@@ -84,16 +84,4 @@ Requirements:
 For 8/10 credit: Present the second example from the slides (the one with `read` and `write`) on your Linux machine.  
 - Must include the user space sample.
 
----
-
-## Appendix
-
-Useful resources, tutorials, and reference material (add as needed).
-
----
-
-## Acknowledgement
-
-Adapted for Cal Poly Pomona by [Instructor Name].  
-Based on course materials and assignments for Operating Systems.
 
