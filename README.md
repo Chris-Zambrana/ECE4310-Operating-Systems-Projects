@@ -1,9 +1,7 @@
 # Operating Systems Seminar Prompts
+
 <p align="center">
-Prof. [Instructor Name]
-</p>
-<p align="center">
-Department of Computer Science, Cal Poly Pomona
+Department of Engineering, Cal Poly Pomona
 </p>
 
 ## Table of Contents
